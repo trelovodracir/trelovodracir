@@ -1,4 +1,4 @@
-![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif)
+:![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif):
 
 ## 💻 About me
 
