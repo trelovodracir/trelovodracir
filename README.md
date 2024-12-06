@@ -1,5 +1,3 @@
-:![image](https://media.giphy.com/media/i2rNOf3b7vJgk/source.gif):
-
 ## 💻 About me
 
 - ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
