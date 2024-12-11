@@ -6,7 +6,7 @@
 ## 🔥 Streak
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
-<img src="https://streak-stats.demolab.com?user=ricardovolert&theme=buefy" alt="github-streak" />
+<img src="https://streak-stats.demolab.com?user=trelovodracir&theme=buefy" alt="github-streak" />
 </div>
 
 ## 💻 About me
