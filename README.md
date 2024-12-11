@@ -1,3 +1,14 @@
+## Hello!
+
+| <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+## 🔥 Streak
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<img src="https://streak-stats.demolab.com?user=ricardovolert&theme=buefy" alt="github-streak" />
+</div>
+
 ## 💻 About me
 
 - ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
