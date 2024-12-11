@@ -25,61 +25,38 @@ A big hug and have a great week!
 <div style="display: flex; align-items: center; justify-content: center;">
 
 ### **Web**
-- HTML5  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-- JavaScript  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 ### **Basics**
-- Python  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-- PHP  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 
 ### **DataBase**
-- MariaDB  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
-- MongoDB  
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 
 ### **Tools**
-- Git  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-- Docker  
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-- VSCode  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-- Linux  
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-- Windows 11  
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40"/>
 
 ### **Frameworks**
-- NestJS  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-- Next.js  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-- Laravel  
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-- Drupal  
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
 
 ### **Backend & Advanced Programming**
-- Elixir  
   <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
-- Erlang  
   <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original.svg" alt="erlang" width="40" height="40"/>
-- Rust  
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-- Ruby  
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-- Fortran  
   <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" alt="fortran" width="40" height="40"/>
 
 ### **Others**
-- SciKit-Learn (Machine Learning)  
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
-- LaTeX (Documentação)  
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-- GCC (Compilador C/C++)  
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
