@@ -1,6 +1,6 @@
 ## Hello!
 
-| <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
