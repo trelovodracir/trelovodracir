@@ -3,11 +3,6 @@
 | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## 🔥 Streak
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
-<img src="[https://streak-stats.demolab.com?user=trelovodracir&theme=dracula](https://streak-stats.demolab.com?user=trelovodracir&theme=dracula)" alt="github-streak" />
-</div>
 
 ## 💻 About me
 
@@ -71,3 +66,11 @@ A big hug and have a great week!
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
+
+
+  
+## 🔥 Streak
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<img src="[https://streak-stats.demolab.com?user=trelovodracir&theme=dracula](https://streak-stats.demolab.com?user=trelovodracir&theme=dracula)" alt="github-streak" />
+</div>
