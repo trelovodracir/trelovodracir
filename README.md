@@ -17,11 +17,11 @@
 
 - ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
 
-<p align="center">
+<!--p align="center">
   <a href="https://www.buymeacoffee.com/trelovodracir" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
-</p>    
+</p-->    
 
 
 
