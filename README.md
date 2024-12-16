@@ -1,12 +1,165 @@
-## Hello!
+<a href="https://github.com/sponsors/trelovodracir"><img align="right" width="150" height="150" src="https://i.gifer.com/LYUy.gif"></a>
+
+
+<h1 align="center">Hi 👋, I'm Ricardo Volert</h1>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ricardo%20Volert-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ricardovolert/)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+
+
+
+
+
+<h3 align="center">Master in Physics, I am also a developer analyst, focused on AI/ML, Data Science and Internet Systems Development</h3>
+
+- ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/trelovodracir" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+</p>    
+
+
+
+<p align="center">
+  <a href="https://github.com/trelovodracir">
+    <img src="https://komarev.com/ghpvc/?username=trelovodracir" alt="page views" />
+  </a>
+  <a href="https://trelovodracir.github.io">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Ftrelovodracir.github.io">
+  </a>
+  <a href="https://www.youtube.com/channel/UC9qtkotWKRvbc_9GF4aP26g">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC9qtkotWKRvbc_9GF4aP26g?style=flat&logo=youtube">
+  </a>
+  <a href="https://github.com/trelovodracir?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/trelovodracir?style=flat&logo=github">
+  </a>
+
+<br/>
+
+<p><em>Master of Science (M.Sc.) in Physics from <a href="http://www.utfpr.edu.br">Federal Technological University of Paraná</a></br>
+lato sensu in Applied Artificial Intelligence from <a href="http://www.ufpr.br">Federal University of Paraná</a></br>
+lato sensu in Data Science from <a href="https://uniasselvi.com.br/">Leonardo da Vinci University Center</a></br>
+lato sensu in Information Technology from <a href="https://faculdadefutura.com.br">Futura College</a></br>
+lato sensu in Teaching Astronomy from <a href="https://www.cruzeirodosul.edu.br">Cruzeiro do Sul University</a></br>
+B.Sc. in Physics from <a href="http://www.uninter.com">International University Center</a><br/>
+B.Ed. in Physics from <a href="http://www.ulbra.br">Lutheran University of Brazil</a><br/>
+Technologist in Systems Analysis and Development from <a href="https://www.unicesumar.edu.br">University Center of Maringá</a></br>
+Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University of Paraná</a>
+</em></p>
+
+
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=tokyo-night&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
+<strong>Languages:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/html5?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/css3?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/php?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/json?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/go?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/c?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/cplusplus?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/ruby?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/zig?viewbox=auto" />
+
+<strong>JavaScript Ecosystem:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/node.js?viewbox=auto" />
+
+<strong>Libraries:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/react?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/express?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto" />
+
+<strong>Deployment Plataforms:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/githubpages?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/heroku?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/netlify?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/vercel?viewbox=auto" />
+
+<strong>Build Tools e Transpilers:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/vite?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/swc?viewbox=auto" />
+
+<strong>Database:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/mysql?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/mongodb?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/sqlite?viewbox=auto" />
+
+<strong>Auxiliary Tools and Frameworks:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/eslint?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/fontawesome?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/redux?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/socketdotio?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/swagger?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/laravel?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/materialdesign?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/GitHubActions?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/angular?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/sass?viewbox=auto" />
+
+<strong>Advanced Technologies:</strong><br/>
+<img height="20" src="https://cdn.simpleicons.org/arduino?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/tensorflow?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/keras?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/opencv?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/flask?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/django?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/docker?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/graphql?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/selenium?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/jupyter?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/pytorch?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/redis?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/spring?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/kubernetes?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/gnubash?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/fishshell?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/r?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/googlecolab?viewbox=auto" />
+
+
+<strong>Development Tools:</strong><br/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  </a>
+</p>
+
+<strong>Operating Systems:</strong><br/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+  </a>
+</p>
+
+
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbc5rut42aql6wgsqaqbia5zs4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+<div>
+
+</div>
+
+
 ## 💻 About me
 
-- ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
 
 ## ... but :+1:
 
@@ -25,52 +178,3 @@ At that time, I stopped studying programming and dedicated myself to being a pur
 This is the purpose of this page, in fact, my name is Ricardo Volert ... and this space is initially intended to document my re-evolution.
 
 A big hug and have a great week!
-
-## 👨‍💻 Some of the technologies I intend to know properly
-
-<div style="display: flex; align-items: center; justify-content: center;">
-
-### **Web**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-### **Basics**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-
-### **DataBase**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-
-### **Tools**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="windows11" width="40" height="40"/>
-
-### **Frameworks**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="drupal" width="40" height="40"/>
-
-### **Backend & Advanced Programming**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg" alt="elixir" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/erlang/erlang-original.svg" alt="erlang" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" alt="fortran" width="40" height="40"/>
-
-### **Others**
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" alt="gcc" width="40" height="40"/>
-
-
-  
-## 🔥 Streak
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
-<img src="[https://streak-stats.demolab.com?user=trelovodracir&theme=dracula](https://streak-stats.demolab.com?user=trelovodracir&theme=dracula)" alt="github-streak" />
-</div>
