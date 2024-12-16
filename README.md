@@ -62,77 +62,77 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 
 
 <strong>Languages:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/html5?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/css3?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/php?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/json?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/go?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/c?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/cplusplus?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/rust?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/ruby?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/zig?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/html5?viewbox=auto" alt="html5" />
+<img height="20" src="https://cdn.simpleicons.org/css3?viewbox=auto" alt="css3" />
+<img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" alt="javascript" />
+<img height="20" src="https://cdn.simpleicons.org/typescript?viewbox=auto" alt="typescript" />
+<img height="20" src="https://cdn.simpleicons.org/php?viewbox=auto" alt="php" />
+<img height="20" src="https://cdn.simpleicons.org/json?viewbox=auto" alt="json" />
+<img height="20" src="https://cdn.simpleicons.org/go?viewbox=auto" alt="go" />
+<img height="20" src="https://cdn.simpleicons.org/c?viewbox=auto" alt="c" />
+<img height="20" src="https://cdn.simpleicons.org/cplusplus?viewbox=auto" alt="c++" />
+<img height="20" src="https://cdn.simpleicons.org/rust?viewbox=auto" alt="rust" />
+<img height="20" src="https://cdn.simpleicons.org/ruby?viewbox=auto" alt="ruby" />
+<img height="20" src="https://cdn.simpleicons.org/zig?viewbox=auto" alt="zig" />
 
 <strong>JavaScript Ecosystem:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/node.js?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/node.js?viewbox=auto" alt="node.js" />
 
 <strong>Libraries:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/react?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/express?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/react?viewbox=auto" alt="react" />
+<img height="20" src="https://cdn.simpleicons.org/express?viewbox=auto" alt="express" />
+<img height="20" src="https://cdn.simpleicons.org/tailwindcss?viewbox=auto" alt="tailwindcss" />
 
 <strong>Deployment Plataforms:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/githubpages?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/heroku?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/netlify?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/vercel?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/githubpages?viewbox=auto" alt="github pages" />
+<img height="20" src="https://cdn.simpleicons.org/heroku?viewbox=auto" alt="heroku" />
+<img height="20" src="https://cdn.simpleicons.org/netlify?viewbox=auto" alt="netlify" />
+<img height="20" src="https://cdn.simpleicons.org/vercel?viewbox=auto" alt="vercel" />
 
 <strong>Build Tools e Transpilers:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/vite?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/swc?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/vite?viewbox=auto" alt="vite" />
+<img height="20" src="https://cdn.simpleicons.org/swc?viewbox=auto" alt="swc" />
 
 <strong>Database:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/mysql?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/mongodb?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/sqlite?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" alt="postgresql" />
+<img height="20" src="https://cdn.simpleicons.org/mysql?viewbox=auto" alt="mysql" />
+<img height="20" src="https://cdn.simpleicons.org/mongodb?viewbox=auto" alt="mongodb" />
+<img height="20" src="https://cdn.simpleicons.org/sqlite?viewbox=auto" alt="sqlite" />
 
 <strong>Auxiliary Tools and Frameworks:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/eslint?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/fontawesome?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/redux?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/socketdotio?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/swagger?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/laravel?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/materialdesign?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/GitHubActions?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/angular?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/sass?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/eslint?viewbox=auto" alt="eslint" />
+<img height="20" src="https://cdn.simpleicons.org/fontawesome?viewbox=auto" alt="fontawesome" />
+<img height="20" src="https://cdn.simpleicons.org/redux?viewbox=auto" alt="redux" />
+<img height="20" src="https://cdn.simpleicons.org/socketdotio?viewbox=auto" alt="socketdotio" />
+<img height="20" src="https://cdn.simpleicons.org/swagger?viewbox=auto" alt="swagger" />
+<img height="20" src="https://cdn.simpleicons.org/laravel?viewbox=auto" alt="laravel" />
+<img height="20" src="https://cdn.simpleicons.org/materialdesign?viewbox=auto" alt="material design" />
+<img height="20" src="https://cdn.simpleicons.org/GitHubActions?viewbox=auto" alt="GitHub Actions" />
+<img height="20" src="https://cdn.simpleicons.org/jsonwebtokens?viewbox=auto" alt="json web tokens" />
+<img height="20" src="https://cdn.simpleicons.org/nextdotjs?viewbox=auto" alt="next.js" />
+<img height="20" src="https://cdn.simpleicons.org/angular?viewbox=auto" alt="angular" />
+<img height="20" src="https://cdn.simpleicons.org/sass?viewbox=auto" alt="sass" />
 
 <strong>Advanced Technologies:</strong><br/>
-<img height="20" src="https://cdn.simpleicons.org/arduino?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/tensorflow?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/keras?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/opencv?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/flask?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/django?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/docker?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/graphql?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/selenium?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/jupyter?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/pytorch?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/redis?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/spring?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/kubernetes?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/gnubash?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/fishshell?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/r?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/googlecolab?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/arduino?viewbox=auto" alt="arduino" />
+<img height="20" src="https://cdn.simpleicons.org/tensorflow?viewbox=auto" alt="tensorflow"  />
+<img height="20" src="https://cdn.simpleicons.org/keras?viewbox=auto" alt="keras"  />
+<img height="20" src="https://cdn.simpleicons.org/opencv?viewbox=auto" alt="opencv"  />
+<img height="20" src="https://cdn.simpleicons.org/scikitlearn?viewbox=auto" alt="scikit learn"  />
+<img height="20" src="https://cdn.simpleicons.org/flask?viewbox=auto" alt="flask"  />
+<img height="20" src="https://cdn.simpleicons.org/django?viewbox=auto" alt="django"  />
+<img height="20" src="https://cdn.simpleicons.org/docker?viewbox=auto" alt="docker"  />
+<img height="20" src="https://cdn.simpleicons.org/graphql?viewbox=auto" alt="graphql"  />
+<img height="20" src="https://cdn.simpleicons.org/selenium?viewbox=auto" alt="selenium"  />
+<img height="20" src="https://cdn.simpleicons.org/jupyter?viewbox=auto" alt="jupyter"  />
+<img height="20" src="https://cdn.simpleicons.org/pytorch?viewbox=auto" alt="pytorch"  />
+<img height="20" src="https://cdn.simpleicons.org/redis?viewbox=auto" alt="redis"  />
+<img height="20" src="https://cdn.simpleicons.org/spring?viewbox=auto" alt="spring"  />
+<img height="20" src="https://cdn.simpleicons.org/kubernetes?viewbox=auto" alt="kubernetes"  />
+<img height="20" src="https://cdn.simpleicons.org/gnubash?viewbox=auto" alt="gnubash"  />
+<img height="20" src="https://cdn.simpleicons.org/fishshell?viewbox=auto" alt="fish shell"  />
+<img height="20" src="https://cdn.simpleicons.org/r?viewbox=auto" alt="r"  />
+<img height="20" src="https://cdn.simpleicons.org/googlecolab?viewbox=auto" alt="google colab"  />
 
 
 <strong>Development Tools:</strong><br/>
