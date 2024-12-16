@@ -15,7 +15,7 @@
 
 <h3 align="center">Master in Physics, I am also a developer analyst, focused on AI/ML, Data Science and Internet Systems Development</h3>
 
-- ❤️ Just passionate about knowing how smart you are and how much I can and try to be!
+❤️ Just passionate about knowing how smart you are and how much I can and try to be!
 
 <!--p align="center">
   <a href="https://www.buymeacoffee.com/trelovodracir" target="_blank" rel="noreferrer nofollow">
