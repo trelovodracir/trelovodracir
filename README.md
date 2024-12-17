@@ -71,6 +71,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
     <tr style="background-color: #fff;">
         <td colspan="3">
             <strong>Languages:</strong><br/>
+            <img height="20" src="https://cdn.simpleicons.org/latex?viewbox=auto" alt="latex" />
             <img height="20" src="https://cdn.simpleicons.org/html5?viewbox=auto" alt="html5" />
             <img height="20" src="https://cdn.simpleicons.org/css3?viewbox=auto" alt="css3" />
             <img height="20" src="https://cdn.simpleicons.org/javascript?viewbox=auto" alt="javascript" />
