@@ -67,7 +67,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
   </tr>
 </table>
 
-<table align="center">
+<table align="center" style="background-color: #fff;">
     <tr style="background-color: #fff;">
         <td colspan="3">
             <strong>Languages:</strong><br/>
@@ -84,6 +84,11 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
             <img height="20" src="https://cdn.simpleicons.org/ruby?viewbox=auto" alt="ruby" />
             <img height="20" src="https://cdn.simpleicons.org/zig?viewbox=auto" alt="zig" />
         </td>
+        <td rowspan="6">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbc5rut42aql6wgsqaqbia5zs4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+            <!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbc5rut42aql6wgsqaqbia5zs4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+            -->
+        </td
     </tr>
     <tr style="background-color: #fff;">
         <td>
@@ -179,8 +184,6 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
     </tr>
 <table>
 
-
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbc5rut42aql6wgsqaqbia5zs4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 <div>
 
