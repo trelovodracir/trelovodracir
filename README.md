@@ -53,7 +53,20 @@ Technologist in Systems Analysis and Development from <a href="https://www.unice
 Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University of Paraná</a>
 </em></p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## Star History
+
+[![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&bg_color=ffffff&color=004db3&line=0055ff&point=390a80&area=true&hide_border=true" />
+   <img alt="activity graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true"  />
+ </picture>
+</a>
+
+<!-- [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <table align="center">
   <tr>
