@@ -56,9 +56,16 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=tokyo-night&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-| <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="trelovodracir's github stats" /></a> | <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="trelovodracir's github stats" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/trelovodracir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
 
 <table align="center">
     <tr style="background-color: #fff;">
