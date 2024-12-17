@@ -55,7 +55,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 
 
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=tokyo-night&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table align="center">
   <tr>
