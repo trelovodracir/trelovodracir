@@ -56,7 +56,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 
 ## Star History
 
-[![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
  <picture>
