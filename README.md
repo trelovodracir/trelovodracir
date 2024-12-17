@@ -1,4 +1,4 @@
-<a href="https://github.com/sponsors/trelovodracir"><img align="right" width="150" height="150" src="https://i.gifer.com/LYUy.gif"></a>
+<a href="https://github.com/sponsors/trelovodracir"><img align="right" width="150" height="150" src="./Cavalo-Offline-Github-Fire.png"></a>
 
 
 <h1 align="center">Hi 👋, I'm Ricardo Volert</h1>
@@ -71,7 +71,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&rank_icon=percentile&layout=donut-vertical&theme=dracula&hide_border=true" /></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&include_all_commits=true&layout=donut-vertical&theme=dracula&hide_border=true" /></a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a>
