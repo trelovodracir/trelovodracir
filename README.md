@@ -53,8 +53,6 @@ Technologist in Systems Analysis and Development from <a href="https://www.unice
 Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University of Paraná</a>
 </em></p>
 
-
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trelovodracir&theme=react-dark&custom_title=TrelovOdracir%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <table align="center">
