@@ -159,23 +159,25 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
             <img height="20" src="https://cdn.simpleicons.org/googlecolab?viewbox=auto" alt="google colab"  />
         </td>
     </tr>
+    <tr style="background-color: #fff;">
+        <td colspan="2">
+            <strong>Development Tools:</strong><br/>
+            <p align="left">
+              <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+              </a>
+            </p>
+        </td>
+        <td>
+            <strong>Operating Systems:</strong><br/>
+            <p align="left">
+              <a href="https://skillicons.dev">
+                <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+              </a>
+            </p>
+        </td>
+    </tr>
 <table>
-
-
-<strong>Development Tools:</strong><br/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-  </a>
-</p>
-
-<strong>Operating Systems:</strong><br/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
-  </a>
-</p>
-
 
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbc5rut42aql6wgsqaqbia5zs4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
