@@ -71,13 +71,7 @@ Physics Laboratory Technician at <a href="http://www.ufpr.br">Federal University
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-       <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&layout=donut-vertical&theme=dracula&hide_border=true" />
-         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&layout=donut-vertical&hide_border=true" />
-         <img alt="activity graph"  src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&layout=donut-vertical&theme=dracula&hide_border=true"  />
-       </picture>
-      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=trelovodracir&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&layout=donut-vertical&theme=dracula&hide_border=true" /></a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trelovodracir&layout=compact&theme=dracula&hide_border=true" /></a>
