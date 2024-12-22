@@ -11,7 +11,7 @@
 [![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=90D5FF)](https://www.linkedin.com/in/ricardovolert/)
 [![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)](https://www.linkedin.com/in/ricardovolert/)
 [![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)](https://www.linkedin.com/in/ricardovolert/)
-[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)](https://www.linkedin.com/in/ricardovolert/)
+<!--[![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)](https://www.linkedin.com/in/ricardovolert/)-->
 
 <!-- [![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)](https://www.linkedin.com/in/ricardovolert/)-->
 
